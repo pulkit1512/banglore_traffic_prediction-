@@ -1,3 +1,6 @@
 # Python virtual environments
 venv/
 .venv/
+catboost_info/
+kt_logs/
+my_dir/
